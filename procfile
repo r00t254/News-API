@@ -1,0 +1,5 @@
+web: gunicorn manage:app
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
