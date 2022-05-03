@@ -17,3 +17,4 @@ As a user I would like to:
 .See the top news articles from that news source
 # Requirements
 Python 3.8
+Pip
