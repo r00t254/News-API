@@ -19,3 +19,4 @@ As a user I would like to:
 Python 3.8
 Pip
 # Development
+To run the application, in your terminal:
