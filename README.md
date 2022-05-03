@@ -6,12 +6,12 @@ News updates is a web application that displays a list of various news sources. 
 # User Story
 As a user I would like to:
 
-Click on an article and read it fully from the news source
+.Click on an article and read it fully from the news source
 
-See the image, description and time the news article was created
+.See the image, description and time the news article was created
 
-See various news sources
+.See various news sources
 
-Select the ones they prefer
+.Select the ones they prefer
 
-See the top news articles from that news source
+.See the top news articles from that news source
