@@ -9,5 +9,7 @@ As a user I would like to:
 Click on an article and read it fully from the news source
 
 See the image, description and time the news article was created
+
 See various news sources
+
 Select the ones they prefer
