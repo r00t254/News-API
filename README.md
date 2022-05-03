@@ -13,3 +13,5 @@ See the image, description and time the news article was created
 See various news sources
 
 Select the ones they prefer
+
+See the top news articles from that news source
