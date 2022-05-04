@@ -18,4 +18,3 @@ class CategoryTest(unittest.TestCase):
         '''
         self.assertTrue(isinstance(self.new_category,Category))
 
-# isinstance:::: Return true if the object argument is an instance of the classinfo argument, 
