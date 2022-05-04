@@ -30,3 +30,5 @@ To run the application, in your terminal:
 # Known Bugs 
 There are no known bugs
 # Contact Information
+You can send your feedback or comments through my e-mail addresss root254@mary.gmail.com
+
