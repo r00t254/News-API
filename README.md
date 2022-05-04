@@ -20,3 +20,4 @@ Python 3.8
 Pip
 # Development
 To run the application, in your terminal:
+ python3.8 manage.py tests
