@@ -29,4 +29,4 @@ To run the application, in your terminal:
 .Flask
 # Known Bugs 
 There are no known bugs
-# Contact 
+# Contact Information
