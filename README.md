@@ -27,3 +27,4 @@ To run the application, in your terminal:
 .Python 3.8
 
 .Flask
+# Known Bugs 
