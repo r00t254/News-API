@@ -24,3 +24,4 @@ To run the application, in your terminal:
  python3.8 manage.py tests
 # Behavior Driven Development
 # Technology Use 
+Python 3.8
